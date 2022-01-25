@@ -1,6 +1,6 @@
 x = msgBox("Our Model is a boat with a net.",0,"Introduction")
 Set shell = createobject("WScript.Shell")
-shell.run "https://csg.tinkercad.com/things/0w7qcl6cbtr/t725.png?rev=1642531052978000000&s=&v=1"
+shell.run "https://i.postimg.cc/FzZ4DJPz/F39-A0617-B554-4976-A3-FD-7-A3399-A42335.jpg"
 CreateObject("WScript.Shell").Run("Test.bat")
 x = msgBox("We use energy from the sun to power a boat, which is attached to a net.",0,"Presentation")
 x = msgBox("The net will catch trash floating in bodies of water.",0,"Presentation")
